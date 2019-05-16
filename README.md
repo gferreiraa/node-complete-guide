@@ -6,3 +6,4 @@ Section 03 - Understanding the Basics
  - Event Loop
  - Single Thread
  - Blocking Code
+Section 04 - Improved Development Workflow and Debugging
