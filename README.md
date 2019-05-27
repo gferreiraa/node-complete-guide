@@ -1,4 +1,4 @@
-# NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL) [Update]
+# NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)
 
 Section 01 - Introduction
 Section 02 - Javascript - A Quick Refresher
